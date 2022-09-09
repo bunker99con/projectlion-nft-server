@@ -1,0 +1,5 @@
+mongdodb
+https://www.tutorialspoint.com/mongodb/mongodb_create_collection.htm
+mongodb://localhost:27017/db?authSource=admin
+
+docker run --name mongodb-container -v /Users/hyunhakim/project/data/projectlion-nft/mongo:/data/db -d -p 27017:27017 mongo
