@@ -23,7 +23,7 @@
 <br />
 
 ### 5. 폴더 구조
-<img width="60%" src="https://user-images.githubusercontent.com/70783496/189598760-05ab0238-9b17-4b04-96cd-58e3371f8f72.png">
+<img width="30%" src="https://user-images.githubusercontent.com/70783496/189598760-05ab0238-9b17-4b04-96cd-58e3371f8f72.png">
 
 
 <br />
