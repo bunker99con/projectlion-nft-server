@@ -20,7 +20,7 @@
 
 ### 4. 데이터 구조
 <br />
-<img width="80%" src="https://user-images.githubusercontent.com/70783496/189588607-1b1c670f-dc81-400c-9102-dd58b830342d.png">
+<img width="80%" src="https://user-images.githubusercontent.com/70783496/189596083-28a8c893-3003-448b-9698-e3cd83af3fda.png">
 <br />
 
 ### 5. 폴더 구조
