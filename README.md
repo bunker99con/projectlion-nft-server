@@ -18,8 +18,7 @@
 * 탄소배출권 NFT 불러오기
 
 
-### 4. 데이터 구조
-<br />
+### 4.  구조
 <img width="80%" src="https://user-images.githubusercontent.com/70783496/189596083-28a8c893-3003-448b-9698-e3cd83af3fda.png">
 <br />
 
