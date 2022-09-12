@@ -16,9 +16,9 @@
 * 탄소배출권 NFT 발행시 사용자 포인트 차감
 * 탄소배출권 NFT 내역 저장
 * 탄소배출권 NFT 불러오기
+<br />
 
-
-### 4.  구조
+### 4. DB 구조
 <img width="80%" src="https://user-images.githubusercontent.com/70783496/189596083-28a8c893-3003-448b-9698-e3cd83af3fda.png">
 <br />
 
