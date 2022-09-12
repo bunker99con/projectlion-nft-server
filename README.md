@@ -25,16 +25,16 @@
 ### 5. 폴더 구조
 <br />
 <img width="30%" src="https://user-images.githubusercontent.com/70783496/189598760-05ab0238-9b17-4b04-96cd-58e3371f8f72.png">
-
-
 <br />
 
-### 6. 주의점
-
+### 6. 보완점
+프론트 Api 연결 부분, NFT 발행 부분 미구축 => 프론트에서 윈도우 및 QR로 접근하지 않고 백엔드 부분에서 KLIP API를 사용하여 클립APP 또는 카카오톡을 실행하는데 있어 문제해결이 필요함.
+ 
 
 <br />
 
 ### 7. 사용법
-
+* flask_serve => requierment.txt 파일 내 모듈 다운(pip install 모듈이름) => 터미널에서 python run.py실행
+* nodeJs_serve => npm install => npm run dev
 
 
