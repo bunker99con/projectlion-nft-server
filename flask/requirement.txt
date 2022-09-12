@@ -1,0 +1,12 @@
+
+pip install beautifulsoup4
+pip install apscheduler
+pip install flask-pymongo
+pip install requests
+pip install flask_cors
+pip install selenium
+pip install opencv-python
+pip install pyqrcode
+pip install pypng
+pip install numpy
+pip install urllib3
