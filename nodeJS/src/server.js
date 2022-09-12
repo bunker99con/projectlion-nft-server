@@ -24,7 +24,7 @@ app.get('/', (req, res) => {
 // 클레이 시세가져오기
 app.get('/flask/klay_price', async (req, res) => {
  try {
-        const response = await axios.get('http://39.123.72.111:9000/klay_price');
+        const response = await axios.get('http://flask_server/klay_price');
         console.log(response["data"]["data"]);
         const klay_price = response["data"]["data"]
         return res.send({klay_price})
@@ -36,7 +36,7 @@ app.get('/flask/klay_price', async (req, res) => {
 // 탄소 배출권 시세 가져오기
 app.get('/flask/KAU_price', async (req, res) => {
     try {
-           const response = await axios.get('http://39.123.72.111:9000/check_price');
+           const response = await axios.get('http://flask_server/check_price');
            console.log(response["data"]["data"]);
            return res.send(response["data"]["data"]) //{"KAU22":"27,100"}
          } catch (error) {
