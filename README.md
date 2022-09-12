@@ -34,7 +34,7 @@
 <br />
 
 ### 7. 사용법
-* flask_serve => requierment.txt 파일 내 모듈 다운(pip install 모듈이름) => 터미널에서 python run.py실행
-* nodeJs_serve => npm install => npm run dev
+* flask_server => requierment.txt 파일 내 모듈 다운(pip install 모듈이름) => 터미널에서 python run.py실행
+* nodeJs_server => npm install => npm run dev
 
 
